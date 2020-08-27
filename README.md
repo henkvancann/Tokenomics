@@ -30,7 +30,7 @@ These are the benefits of getting our group involved:<br/>
 1. Classification method [comparison](./Docs/ComparisonTC.md)
 2. Deterministic token classification
 3. Validation 
-4. [Reality check](./Realitycheck.md) of the parameters
+4. [Reality check](./Docs/Realitycheck.md) of the parameters
 5. [Assetbacking](./Docs/Assetbacking.md)
 6. Future role of [Artifical Intelligence](./Docs/AI.md)
 7. [Legal Embedding](./Docs/Legal.md), however reduced and focussed on taxation and legal tender issues
