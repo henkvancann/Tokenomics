@@ -13,8 +13,14 @@ centralized and under control of crooks (by design) or adversaries (in the opera
 ## What needs to be done?
 TBW
 
+#### Asset backing
+Unique identification of physical goods or services in the token system
+
 #### Validation 2Tokens
 TBW
+
+#### Deterministic workflow
+Designing tokens or classifying tokens can be done via decision trees. An example [here](http://TokenRoadmap.nl)
 
 #### Legal check
 TBW
