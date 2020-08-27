@@ -48,3 +48,14 @@ For example, you can buy the tokens of a coin exchange to pay for your transacti
 
 Reference to:
 https://github.com/InterWorkAlliance/TokenTaxonomyFramework
+
+## Role based perception of tokens
+
+How you see and classify a token depends on where you're coming from. We review the following list of roles and describe how their position could influence the way they see the classification of the token.
+
+#### Creator of token
+#### Token owner
+#### Second opinion independent
+#### Tax authority
+#### Legal department
+#### Central bank / government

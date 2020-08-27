@@ -11,9 +11,9 @@ Anyone getting involved with tokens, either as a creator, seller, buyer, facilit
 ## A token is a moving target
 
 The appearance or the analysis of any token changes along at least three axes
-1. the individual perspective of the observer ([roles](./Role based perception of tokens))
+1. the individual perspective of the observer ([roles](./Docs/Legend.md#Role-based-perception-of-tokens))
 2. The lifecycle of a token
-3. Maturity of classification methods (see also [Comparison of methods](./ComparisonTC) )
+3. Maturity of classification methods (see also [Comparison of methods](./Docs/ComparisonTC.md) )
 
 #### Hoovering over the subject
 With so many variables and uncertainties in the premature field of Tokenization, you always should ask the question "What are we doing, what are we really constructing here?". <br/>
@@ -22,17 +22,17 @@ The outcome of a classification or an exercise to put a real world situation in 
 **Designing a token, classify the token, put it in a legal context, check the assetbacking, do the reality check, etc... still won't create anything valuable yet.**
 
 #### Having said that, that we happily offer:
- - [Definitions and extended glossary](./Legend.md)
- - [Examples](./Examples.md) of tokenization
- - More detailed [objectives](./Objectives.md) of this project
- - A list of [roles] that stakeholders in a token ecosystem can fullfil<br/>
+ - [Definitions and extended glossary](./Docs/Legend.md)
+ - [Examples](./Docs/Examples.md) of tokenization
+ - More detailed [objectives](./Docs/Objectives.md) of this project
+ - A list of [roles](./Docs/Legend.md#Role-based-perception-of-tokens) that stakeholders in a token ecosystem can fullfil<br/>
 These are the benefits of getting our group involved:<br/>
-1. Classification method [comparison](./ComparisonTC)
+1. Classification method [comparison](./Docs/ComparisonTC.md)
 2. Deterministic token classification
 3. Validation 
 4. [Reality check](./Realitycheck.md) of the parameters
-5. [Assetbacking](./Assetbacking.md)
-6. Future role of [Artifical Intelligence](./AI.md)
-7. [Legal Embedding](./Legal.md), however reduced and focussed on taxation and legal tender issues
+5. [Assetbacking](./Docs/Assetbacking.md)
+6. Future role of [Artifical Intelligence](./Docs/AI.md)
+7. [Legal Embedding](./Docs/Legal.md), however reduced and focussed on taxation and legal tender issues
 
 
